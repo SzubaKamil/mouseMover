@@ -3,3 +3,6 @@
 *.iml
 .idea
 out
+
+# Other #
+FakeMain.java
